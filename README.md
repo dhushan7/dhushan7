@@ -5,11 +5,13 @@
 
 
 <p align="center">
-  - 🔭 IT Undergraduate at SLIIT
+  🔭 IT Undergraduate at SLIIT
 </p>
-<p align="center">
-  - 🌱 Full-Stack Developer, Mobile App Developer & Data Analyst
+<p align="center" style="font-size: 15px">
+  🌱 Interested in
+  <strong>Full-Stack Web Development | Mobile App Development | Data Analytics | Graphic Designing</strong>
 </p>
+
 
 
 
