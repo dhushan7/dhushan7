@@ -37,31 +37,40 @@
 
 
 ---
-
+<!--
 ### 📊 Skill Distribution
 
-<!--
+
 <img src="skill_distribution_pie.png" alt="Skill Distribution Pie Chart" width="350"/>
--->
+
 
 ---
-
+-->
 ### 📈 GitHub Stats
 
-<table width="100%" style="table-layout: fixed;">
+<table align="center" width="100%" style="border-collapse: collapse; border: none; margin: auto;">
   <tr>
-    <td align="center" style="width:50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=dhushan7&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" style="max-width:420px;"/>
+    <td align="center" style="width:50%; border: none; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=dhushan7&show_icons=true&theme=radical" 
+           alt="GitHub Stats" 
+           width="100%" 
+           style="max-width:420px; display: block;"/>
     </td>
-    <td align="center" style="width:50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhushan7&layout=compact&theme=radical" alt="Top Languages" width="100%" style="max-width:420px;"/>
+    <td align="center" style="width:50%; border: none; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhushan7&layout=compact&theme=radical" 
+           alt="Top Languages" 
+           width="100%" 
+           style="max-width:420px; display: block;"/>
     </td>
   </tr>
 </table>
 
-<!--
-![GitHub Streak](https://streak-stats.demolab.com/?user=dhushan7&cache_seconds=86400)
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhushan7&theme=radical" 
+       alt="GitHub Streak" 
+       width="450" 
+       style="max-width:100%;"/>
+</p>
 
 ---
 
