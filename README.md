@@ -1,7 +1,17 @@
-## Hi 👋, I'm Minindu Madhushan
+<h1 align="center" style="font-family: Georgia, serif; font-weight:bold;">
+  Hi 👋, I'm Minindu Madhushan
+</h1>
 
-- 🔭 IT Undergraduate  
-- 🌱 Interested in Web Development, Mobile App Development & Data Analytics   
+
+
+<p align="center">
+  - 🔭 IT Undergraduate at SLIIT
+</p>
+<p align="center">
+  - 🌱 Full-Stack Developer, Mobile App Developer & Data Analytics
+</p>
+
+
 
 ---
 
