@@ -8,7 +8,7 @@
   - 🔭 IT Undergraduate at SLIIT
 </p>
 <p align="center">
-  - 🌱 Full-Stack Developer, Mobile App Developer & Data Analytics
+  - 🌱 Full-Stack Developer, Mobile App Developer & Data Analyst
 </p>
 
 
