@@ -1,14 +1,16 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Minindu+Madhushan;IT+Undergraduate;Aspiring+Software+Engineer" />
-</h1>
+## Hi 👋, I'm Minindu Madhushan
+
+- 🔭 IT Undergraduate
+- 🌱 Interested in Web Development, Mobile App Development & Data Analytics
 
 
 ---
-
+<!--
 ### 📊 Skill Distribution
 
+<!--
 <img src="skill_distribution_pie.png" alt="Skill Distribution Pie Chart" width="350"/>
-
+-->
 ---
 
 ### 🛠 Tech Stack
@@ -34,7 +36,7 @@
 - Android Studio
 
 ---
-
+<!--
 ### 🚀 Projects
 
 - **Eventify – Event Management Platform**  
@@ -47,13 +49,14 @@
   Authentication-based full CRUD system
 
 ---
-
+-->
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhushan7&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhushan7&layout=compact)
+<!--
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dhushan7&cache_seconds=86400)
-
+-->
 ---
 
 ### 📫 Connect with Me
