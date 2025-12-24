@@ -78,11 +78,9 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhushan7&theme=radical" 
-       alt="GitHub Streak" 
-       width="450" 
-       style="max-width:100%;"/>
+  <img src="https://streak-stats.demolab.com?user=dhushan7&theme=radical" width="50%" />
 </p>
+
 
 ---
 
