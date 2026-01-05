@@ -60,27 +60,17 @@
 -->
 ### 📈 GitHub Stats
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none; margin: auto;">
-  <tr>
-    <td align="center" style="width:50%; border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=dhushan7&show_icons=true&theme=radical" 
-           alt="GitHub Stats" 
-           width="100%" 
-           style="max-width:420px; display: block;"/>
-    </td>
-    <td align="center" style="width:50%; border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhushan7&layout=compact&theme=radical" 
-           alt="Top Languages" 
-           width="100%" 
-           style="max-width:420px; display: block;"/>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhushan7&theme=radical" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhushan7&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhushan7&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhushan7&theme=radical" />
+</p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=dhushan7&theme=radical" width="50%" /> </p>
 
 ---
 
